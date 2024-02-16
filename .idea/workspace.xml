@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0c896c-3669-4174-842d-070c84bacf53" name="Changes" comment="Startei meus 30 dias de javinha.">
-      <change afterPath="$PROJECT_DIR$/src/Day4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1a0c896c-3669-4174-842d-070c84bacf53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708014261898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="trabalhando com metodos de classes">
+      <option name="closed" value="true" />
+      <created>1708084028138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708084028138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Startei meus 30 dias de javinha." />
-    <option name="LAST_COMMIT_MESSAGE" value="Startei meus 30 dias de javinha." />
+    <MESSAGE value="trabalhando com metodos de classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabalhando com metodos de classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

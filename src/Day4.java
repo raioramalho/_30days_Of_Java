@@ -1,5 +1,5 @@
 public class Day4 {
-    //Trabalhando com metodos//(funções) de classe
+    //Trabalhando com metodos/classes
     public static void main(String[] args) {
         String nome = hello();
         System.out.println(nome);
