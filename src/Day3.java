@@ -1,5 +1,5 @@
 public class Day3 {
-    //Trabalhando com String
+    //Trabalhando com Metodos de String
     public static void main(String[] args) {
         String nome = "Alan";
         String sobreNome = "Ramalho";
